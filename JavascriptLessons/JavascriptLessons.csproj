@@ -107,6 +107,7 @@
   <ItemGroup>
     <Content Include="01HowJavaScriptWorks.html" />
     <Content Include="02ExecutionContextandExecutionStackJavaScript.html" />
+    <Content Include="03CallStackExecutionContextExplainedWithLiveExample .html" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -129,6 +130,7 @@
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Javascript\01HowJavaScriptWorks.js" />
     <Content Include="Javascript\02ExecutionContextandExecutionStackJavaScript.js" />
+    <Content Include="Javascript\03CallStackExecutionContextExplainedWithLiveExample.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
